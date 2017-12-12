@@ -8,7 +8,6 @@ import glob
 import csv
 
 from timeit import default_timer as timer
-import my_helpers as myh
 
 np.random.seed(1337)
 
